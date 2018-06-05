@@ -3,3 +3,7 @@
 
 
 This lecture will forcus on established technologies in Bioinformatics such as Raw Data, file formats, aligners, assemblers, etc.
+
+<hr>
+
+#### Table of Contents
