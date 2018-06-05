@@ -22,3 +22,12 @@ This lecture will forcus on established technologies in Bioinformatics such as R
    <li><a href="">HDF5</a></li>
    <li><a href="">Legacy Formats</a></li>
 </ol>
+
+<li><strong><Chapter 3 - Glossary of Bioinformatics Terms</strong></li>
+<li><strong><Chapter 4 - Established Software for Data analysis </strong></li>
+  <ol start="i">
+    <li><a href="">Quality Checking and Preprocessing</a></li>
+    <li><a href="">Aligners/Mappers</a></li>
+    <li><a href="">Multiple Read Alignment</a></li>
+    <li><a href="">Annotation</a></li>
+    
