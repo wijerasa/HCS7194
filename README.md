@@ -32,3 +32,4 @@ This lecture will forcus on established technologies in Bioinformatics such as R
     <li><a href="">Multiple Read Alignment</a></li>
     <li><a href="">Annotation</a></li>
     
+  </ol>
