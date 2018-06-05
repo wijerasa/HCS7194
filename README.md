@@ -8,11 +8,18 @@ This lecture will forcus on established technologies in Bioinformatics such as R
 
 #### Table of Contents
 
-
-<ol start="0">
+<ol start="1">
   <li><strong>Chapter 1 - Raw read Archives and Cloud Services</strong></li>
   <ol start="i">
    <li><a href="">Introduction to Illumina Basespace</a></li>
    <li><a href="">Introduction Illumina SRA</a></li>
+</ol>
  
-  </ol>
+ <ol start="2">
+  <li><strong>Chapter 2 - Raw Data File Formats</strong></li>
+  <ol start="i">
+   <li><a href="">FASTA</a></li>
+   <li><a href="">FASTQ</a></li>
+   <li><a href="">HDF5</a></li>
+   <li><a href="">Legacy Formats</a></li>
+</ol>
