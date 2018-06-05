@@ -23,7 +23,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
    <li><a href="">Legacy Formats</a></li>
   </ol>
 
-<li><strong><Chapter 3 - Glossary of Bioinformatics Terms</strong></li>
+<li><strong><Chapter 3 - Glossary of Bioinformatics Terms></strong></li>
   
 <li><strong><Chapter 4 - Established Software for Data analysis </strong></li>
   <ol start="i">
