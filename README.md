@@ -15,8 +15,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
    <li><a href="">Introduction Illumina SRA</a></li>
 </ol>
  
- <ol start="2">
-  <li><strong>Chapter 2 - Raw Data File Formats</strong></li>
+ <li><strong>Chapter 2 - Raw Data File Formats</strong></li>
   <ol start="i">
    <li><a href="">FASTA</a></li>
    <li><a href="">FASTQ</a></li>
