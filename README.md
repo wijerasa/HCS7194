@@ -20,6 +20,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-2---File-Formats#fasta">FASTA</a></li>
    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-2---File-Formats#fastq">FASTQ</a></li>
    <li><a href="">HDF5</a></li>
+  <li><a href="">VCF</a></li>
    <li><a href="">Legacy Formats</a></li>
   </ol>
 
