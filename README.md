@@ -1,4 +1,23 @@
-### 2. Robust technologies: Overview of established Next generation Bioinformatics Technologies
+### 2. Presentation: Introduction to OSC (Ohio Super Computing) infrastructure and CLI (Command Line Interface)
+<hr>
+
+
+This lecture will forcus on description of the Ohio Super Computer (OSC) infrastructure and Linux CLI.
+
+<hr>
+
+#### Table of Contents
+<ol start="1">
+  <li><strong>Chapter 1 - [**OSC: Introduction**](https://www.osc.edu) Introduction to OSC, this includes:</strong></li>
+  <ol start="i">
+   <li><a href="https://www.osc.edu/about/mission">About the Ohio Supercomputer Center</a></li>
+   <li><a href="https://www.osc.edu/services">Services</a></li>
+   <li><a href="https://www.osc.edu/services/cluster_computing">Cluster Computing</a></li>
+  </ol>
+
+<hr>
+
+### 3. Robust technologies: Overview of established Next generation Bioinformatics Technologies
 <hr>
 
 
