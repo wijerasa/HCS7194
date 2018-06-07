@@ -20,12 +20,14 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
   <li><strong>Chapter 2 - <a href="https://www.osc.edu/resources/getting_started/new_user_resource_guide">New User Resource Guide</a></strong></li>
   <ol start="i">
    <li><a href="https://www.osc.edu/resources/getting_started/getting_connected">Getting connected</a></li>
+  <ol start="i.i">
    <li><a href="https://ondemand.osc.edu/">OnDemand Web Portal</a></li>
    <li><a href="https://www.osc.edu/resources/getting_started/getting_connected">Using Traditional Clients</a></li>
    <ol start="i.i">
     <li>SSH ("Secure Shell") clients</li>
     <li> OSC Connect</li>
    </ol>
+  </ol>
   </ol>
 </ol>
 <hr>
