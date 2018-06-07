@@ -28,13 +28,14 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
     <li> OSC Connect</li>
    </ol>
   </ol>
-  </ol>
   <li><a href="https://www.osc.edu/resources/getting_started/getting_connected">Transferring Files</a></li>
   <ol start="i.i">
     <li>scp ("Secure copy")</li>
     <li> SFTP ("Secure File Transfer Protocal") client</li>
    <li><a href="https://www.osc.edu/resources/getting_started/howto/howto_transfer_files_using_globus_connect">Transfer files using Globus Connect</a></li>
    </ol>
+  </ol>
+  
 </ol>
 <hr>
 
