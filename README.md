@@ -8,7 +8,7 @@ This lecture will forcus on description of the Ohio Super Computer (OSC) infrast
 
 #### Table of Contents
 <ol start="1">
-  <li><strong>Chapter 1 - <a href="https://www.osc.edu">OSC:</a> Introduction Introduction to OSC, this includes:</strong></li>
+  <li><strong>Chapter 1 - <a href="https://www.osc.edu">OSC:</a>Introduction to OSC, this includes:</strong></li>
   <ol start="i">
    <li><a href="https://www.osc.edu/about/mission">About the Ohio Supercomputer Center</a></li>
    <li><a href="https://www.osc.edu/services">Services</a></li>
