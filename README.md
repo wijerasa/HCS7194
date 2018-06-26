@@ -35,6 +35,7 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><a href="https://www.osc.edu/resources/getting_started/howto/howto_transfer_files_using_globus_connect">Transfer files using Globus Connect</a></li>
    </ol>
   </ol>
+   <li><strong>Chapter 3 - <a href="https://www.osc.edu/resources/getting_started/new_user_resource_guide">New User Resource Guide</a></strong></li>
   
 </ol>
 <hr>
