@@ -38,8 +38,22 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><strong>Chapter 3 - <a href="">Command Line Interface (CLI)</a></strong></li>
    <ol start="i.i">
   <li><a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Overview-of-Linux">Overview of Linux</a></li>
-    <li> SFTP ("Secure File Transfer Protocal") client</li>
-   </ol>
+  <li> <a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Linux-System-Structure"> Linux System Structure client</a></li>
+  <li><a href="https://www.learnenough.com/command-line-tutorial#sec-running_a_terminal">Running a terminal</a></li>
+  <li><a href="https://www.learnenough.com/command-line-tutorial#sec-man_pages">Getting Help</a></li>
+  <li><a href="https://www.learnenough.com/command-line-tutorial#sec-cleaning_up">Closing the Terminal</a></li>
+  <li><a href="">Manipulating files</a></li>
+  <ol start="i.i">
+    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-redirecting_and_appending">Redirecting and appending</a></li>
+    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-listing">Listing</a></li>
+    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-renaming_copying_deleting">Renaming, copying, deleting</a></li>
+  </ol>
+   <li><a href="https://www.learnenough.com/command-line-tutorial#sec-inspecting_files">Inspecting files</a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   
+  </ol>
   
 </ol>
 <hr>
