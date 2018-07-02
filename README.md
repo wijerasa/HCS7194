@@ -47,7 +47,6 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-redirecting_and_appending">Redirecting and appending</a></li>
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-listing">Listing</a></li>
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-renaming_copying_deleting">Renaming, copying, deleting</a></li>
-  
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-inspecting_files">Inspecting files</a></li>
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-downloading_a_file"></a>Downloading files</li>
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-making_heads_and_tails">View content of a file</a></li>
