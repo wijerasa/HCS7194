@@ -56,7 +56,7 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-summary_inspecting">Summary</a></li>
    </ol>
   </ol>
- <li><strong>Chapter 4 - <href="https://www.osc.edu/supercomputing/batch-processing-at-osc/batch-system-concepts">Batch System Concepts </a></strong></li>
+ <li><strong>Chapter 4 - <a href="https://www.osc.edu/supercomputing/batch-processing-at-osc/batch-system-concepts">Batch System Concepts </a></strong></li>
   <ol start="i">
     <li><a href="">Why use a batch system?</a></li>
     <li><a href="">Interactive vs. batch</a></li>
