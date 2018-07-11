@@ -56,7 +56,14 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-summary_inspecting">Summary</a></li>
    </ol>
   </ol>
-  
+ <li><strong>Chapter 5 - Batch System Concepts </strong></li>
+  <ol start="i">
+    <li><a href="">Why use a batch system?</a></li>
+    <li><a href="">Interactive vs. batch</a></li>
+    <li><a href="">Batch processing overview</a></li>
+    
+  </ol>
+
 </ol>
 <hr>
 
@@ -97,11 +104,3 @@ This lecture will forcus on established technologies in Bioinformatics such as R
     
   </ol>
 
-<li><strong>Chapter 5 - Batch System Concepts </strong></li>
-  <ol start="i">
-    <li><a href="">Why use a batch system?</a></li>
-    <li><a href="">Interactive vs. batch</a></li>
-    <li><a href="">Batch processing overview</a></li>
-    <li><a href="">Annotation</a></li>
-    
-  </ol>
