@@ -38,7 +38,7 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><strong>Chapter 3 -Command Line Interface (CLI)</strong></li>
    <ol start="i.i">
   <li><a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Overview-of-Linux">Overview of Linux</a></li>
-  <li> <a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Linux-System-Structure"> Linux System Structure client</a></li>
+  <li> <a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Linux-System-Structure"> Linux System Structure</a></li>
   <li><a href="https://www.learnenough.com/command-line-tutorial#sec-running_a_terminal">Running a terminal</a></li>
   <li><a href="https://www.learnenough.com/command-line-tutorial#sec-man_pages">Getting Help</a></li>
   <li><a href="https://www.learnenough.com/command-line-tutorial#sec-cleaning_up">Closing the Terminal</a></li>
