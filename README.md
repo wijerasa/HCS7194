@@ -35,7 +35,7 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
    <li><a href="https://www.osc.edu/resources/getting_started/howto/howto_transfer_files_using_globus_connect">Transfer files using Globus Connect</a></li>
    </ol>
   </ol>
-   <li><strong>Chapter 3 - <a href="">Command Line Interface (CLI)</a></strong></li>
+   <li><strong>Chapter 3 -Command Line Interface (CLI)</strong></li>
    <ol start="i.i">
   <li><a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Overview-of-Linux">Overview of Linux</a></li>
   <li> <a href="http://nbviewer.jupyter.org/github/wijerasa/HCS7806_09_18_2015/blob/master/Introduction%20to%20Terminal.ipynb#Linux-System-Structure"> Linux System Structure client</a></li>
