@@ -3,7 +3,7 @@
 
 <h1> CHAPTER 1 </h1>
 
-[Understadning Command-Line Basics](Understadning Command-Line Basics)
+[Understadning Command-Line Basics](#Understadning Command-Line Basics)
 
 * [Using Streams, Redirection, and Pipes](#Using Streams, Redirection, and Pipes)
 * [Processing Text Using Filters](#Processing Text Using Filters)
