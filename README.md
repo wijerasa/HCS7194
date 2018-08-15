@@ -97,7 +97,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
   
 <li><strong>Chapter 4 - Established Software for Data analysis </strong></li>
   <ol start="i">
-    <li><a href="">Quality Checking and Preprocessing</a></li>
+    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-4:-Established-Software-for-Data-analysis#10-quality-checking-and-preprocessing">Quality Checking and Preprocessing</a></li>
     <li><a href="">Aligners/Mappers</a></li>
     <li><a href="">Multiple Read Alignment</a></li>
     <li><a href="">Annotation</a></li>
