@@ -4,7 +4,7 @@
 
 * <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#-using-streams-redirection-and-pipes-">Using Streams, Redirection, and Pipes</a>
 * <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#-processing-text-using-filters-">Processing Text Using Filters </a>
-* <a href="">Using Regular Expressions](# Using Regular Expressions</a>
+* <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#using-regular-expressions">Using Regular Expressions</a>
 
 <h2> Understadning Command-Line Basics</h2> <a id="Understadning Command-Line Basics"></a>
 
