@@ -20,7 +20,7 @@
 - zsh -  Z shell, ksh+ earliersh + extend
 
 
-<p><font color="red">*Two default shells:*</font>
+*Two default shells:*
 
 - default ineractive shell - User enter commands
 - default system shell - System runs system shell scripts
