@@ -1,0 +1,1 @@
+/Users/saranga/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Users/saranga/Desktop/Mothur_Workshop/mothur

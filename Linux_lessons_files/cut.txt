@@ -1,0 +1,3 @@
+cat command for file oriented operations.
+cp command for copy files or directories.
+ls command to list out files and directories with its attributes.
