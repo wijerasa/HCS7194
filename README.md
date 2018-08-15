@@ -1,4 +1,4 @@
-### 2. Presentation: Introduction to OSC (Ohio Supercomputer Center) infrastructure and CLI (Command Line Interface)
+### 2. Introduction to OSC (Ohio Supercomputer Center) infrastructure and CLI (Command Line Interface)
 <hr>
 
 
