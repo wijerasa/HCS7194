@@ -55,7 +55,6 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
     <li><a href="https://www.learnenough.com/command-line-tutorial#sec-grepping">Grepping</a></li>
    <li><a href="https://www.learnenough.com/command-line-tutorial#sec-summary_inspecting">Summary</a></li>
    </ol>
-  <li><a href="">Further Exploring Linux Command-Line Tools</a></li>
   </ol>
  <li><strong>Chapter 4 - <a href="https://www.osc.edu/supercomputing/batch-processing-at-osc/batch-system-concepts">Batch System Concepts </a></strong></li>
   <ol start="i">
@@ -64,7 +63,7 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
     <li><a href="">Batch processing overview</a></li>
     
   </ol>
-
+<li><strong>Chapter 5 - <a href="https://github.com/wijerasa/HCS7194/wiki/CHAPTER-5:-Command-Line-Interface-Basics">Further Exploring Linux Command-Line Tools </a></strong></li>
 </ol>
 <hr>
 
