@@ -2,7 +2,7 @@
 <hr>
 
 
-This lecture will forcus on description of the Ohio Supercomputer Center (OSC) infrastructure and Linux CLI.
+This lecture will focus on description of the Ohio Supercomputer Center (OSC) infrastructure and Linux CLI.
 
 <hr>
 
