@@ -7,6 +7,7 @@
 * [Using Regular Expressions](# Using Regular Expressions)
 
 <h2> Understadning Command-Line Basics</h2> <a id="Understadning Command-Line Basics"></a>
+
 - enviornment variables = place holders for data
 
 <h3> Shell options </h3>
