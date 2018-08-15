@@ -1,13 +1,10 @@
-
-[Book](https://lnduy.files.wordpress.com/2013/05/comptia-linux-lx0-101-lx0-102.pdf)
-
 <h1> CHAPTER 1 </h1>
 
-[Understadning Command-Line Basics](#Understadning Command-Line Basics)
+* [Understadning Command-Line Basics](# Understadning Command-Line Basics)
 
-* [Using Streams, Redirection, and Pipes](#Using Streams, Redirection, and Pipes)
-* [Processing Text Using Filters](#Processing Text Using Filters)
-* [Using Regular Expressions](#Using Regular Expressions)
+* [Using Streams, Redirection, and Pipes](# Using Streams, Redirection, and Pipes)
+* [Processing Text Using Filters](# Processing Text Using Filters)
+* [Using Regular Expressions](# Using Regular Expressions)
 
 <h2> Understadning Command-Line Basics</h2> <a id="Understadning Command-Line Basics"></a>
 - enviornment variables = place holders for data
