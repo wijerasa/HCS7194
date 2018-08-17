@@ -64,6 +64,7 @@ This lecture will focus on description of the Ohio Supercomputer Center (OSC) in
     
   </ol>
 <li><strong>Chapter 5 - <a href="https://github.com/wijerasa/HCS7194/wiki/CHAPTER-5:-Command-Line-Interface-Basics">Further Exploring Linux Command-Line Tools </a></strong></li>
+<li><strong>Chapter 6 - <a href="">GIT Version Control </a></strong></li>
 </ol>
 <hr>
 
