@@ -1,8 +1,8 @@
-### 2. Presentation: Introduction to OSC (Ohio Supercomputer Center) infrastructure and CLI (Command Line Interface)
+### 2. Introduction to OSC (Ohio Supercomputer Center) infrastructure and CLI (Command Line Interface)
 <hr>
 
 
-This lecture will forcus on description of the Ohio Supercomputer Center (OSC) infrastructure and Linux CLI.
+This lecture will focus on introduction to Ohio Supercomputer Center (OSC) infrastructure and Linux CLI.
 
 <hr>
 
@@ -63,7 +63,8 @@ This lecture will forcus on description of the Ohio Supercomputer Center (OSC) i
     <li><a href="">Batch processing overview</a></li>
     
   </ol>
-
+<li><strong>Chapter 5 - <a href="https://github.com/wijerasa/HCS7194/wiki/CHAPTER-5:-Command-Line-Interface-Basics">Further Exploring Linux Command-Line Tools </a></strong></li>
+<li><strong>Chapter 6 - <a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-6:-GIT-Version-Control-System">GIT Version Control </a></strong></li>
 </ol>
 <hr>
 

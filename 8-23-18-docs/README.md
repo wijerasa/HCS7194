@@ -1,14 +1,13 @@
-
-[Book](https://lnduy.files.wordpress.com/2013/05/comptia-linux-lx0-101-lx0-102.pdf)
-
 <h1> CHAPTER 1 </h1>
 
-* [Understadning Command-Line Basics](#Understadning Command-Line Basics)
-* [Using Streams, Redirection, and Pipes](#Using Streams, Redirection, and Pipes)
-* [Processing Text Using Filters](#Processing Text Using Filters)
-* [Using Regular Expressions](#Using Regular Expressions)
+* <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#-understadning-command-line-basics"> Understadning Command-Line Basics </a>
+
+* <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#-using-streams-redirection-and-pipes-">Using Streams, Redirection, and Pipes</a>
+* <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#-processing-text-using-filters-">Processing Text Using Filters </a>
+* <a href="https://github.com/wijerasa/HCS7194/blob/master/8-23-18-docs/README.md#using-regular-expressions">Using Regular Expressions</a>
 
 <h2> Understadning Command-Line Basics</h2> <a id="Understadning Command-Line Basics"></a>
+
 - enviornment variables = place holders for data
 
 <h3> Shell options </h3>
@@ -21,7 +20,7 @@
 - zsh -  Z shell, ksh+ earliersh + extend
 
 
-<p><font color="red">*Two default shells:*</font>
+*Two default shells:*
 
 - default ineractive shell - User enter commands
 - default system shell - System runs system shell scripts
