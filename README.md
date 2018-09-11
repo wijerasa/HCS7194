@@ -90,6 +90,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
   <ol start="i">
    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-2-:--File-Formats#10-fasta">FASTA</a></li>
    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-2-:--File-Formats#20-fastq">FASTQ</a></li>
+  <li><a href="https://training.h3abionet.org/postgraduate_workshop_2014/wp-content/uploads/2014/04/H3ABioNet_2014_NGS_8_SamFormat.pdf">SAM(*S*equence *A*lignment *M*ap)</a></li>
    <li><a href="https://github.com/wijerasa/HCS7194/wiki/Chapter-2-:--File-Formats#40-hdf5-hierarchical-data-format">HDF5</a></li>
   <li><a href="">VCF</a></li>
    <li><a href="">Legacy Formats</a></li>
