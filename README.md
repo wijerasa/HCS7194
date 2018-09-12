@@ -112,6 +112,7 @@ This lecture will forcus on established technologies in Bioinformatics such as R
 <hr>
 
 The following digrams shows commanly used RNASeq pipeline
-![]()
 <hr>
+![](https://github.com/wijerasa/HCS7194/blob/master/Images/Bioinformatics_Pipelines.png)
+
 
