@@ -108,11 +108,12 @@ This lecture will forcus on established technologies in Bioinformatics such as R
   </ol>
 </ol>
 
-### 4. Bioinformatics Pipeline
+### 4. Main steps in a Bioinformatics Pipeline
 <hr>
 
-The following digrams shows commanly used RNASeq pipeline
+The following section discuss main steps in a Bioinformatics pipeline
 <hr>
-![](https://github.com/wijerasa/HCS7194/blob/master/Images/Bioinformatics_Pipelines.png)
+
+
 
 
