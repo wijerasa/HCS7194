@@ -111,7 +111,8 @@ This lecture will forcus on established technologies in Bioinformatics such as R
 ### 4. Main steps in a Bioinformatics Pipeline
 <hr>
 
-The following section discuss main steps in a Bioinformatics pipeline
+The following section discuss main steps in a Bioinformatics pipeline.
+https://github.com/wijerasa/HCS7194/wiki
 <hr>
 
 
