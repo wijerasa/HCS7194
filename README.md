@@ -107,3 +107,11 @@ This lecture will forcus on established technologies in Bioinformatics such as R
     
   </ol>
 </ol>
+
+### 4. Bioinformatics Pipeline
+<hr>
+
+The following digrams shows commanly used RNASeq pipeline
+![]()
+<hr>
+
